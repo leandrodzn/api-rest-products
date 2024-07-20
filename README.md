@@ -49,10 +49,10 @@ RestApiNetV1
 
 ## Endpoints
 
-### GreetingController
+### Greeting 
 - **POST /api/Greeting**: Returns a greeting message.
 
-### ProductsController
+### Products 
 - **GET /api/Products**: Retrieves a list of all products.
 - **GET /api/Products/{id}**: Retrieves a product by its ID.
 - **POST /api/Products**: Creates a new product.
